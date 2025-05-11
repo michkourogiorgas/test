@@ -9,9 +9,9 @@ A React/TypeScript poker odds calculator that deterministically computes all pos
  
 
 **Usage Example**  
-* Drag cards to assign player hands (up to 6 players)  
-* Optionally set flop/turn/river cards  
-* Click "Calculate" to see:  
+Drag cards to assign player hands (up to 6 players)  
+Optionally set flop/turn/river cards  
+Click "Calculate" to see:  
  * Win probabilities for each player  
  * Hero's hand strength distribution (pair, flush, etc.)  
  * Exact tie percentages  
