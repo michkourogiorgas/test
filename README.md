@@ -16,5 +16,12 @@ Click "Calculate" to see:
  * Hero's hand strength distribution (pair, flush, etc.)  
  * Exact tie percentages  
 
+🚀 Installation
+bash
+git clone https://github.com/yourusername/poker-odds-calculator.git
+cd poker-odds-calculator
+npm install
+npm run dev
+
 **Screenshot**    
 ![image](https://github.com/user-attachments/assets/d0723966-dc48-4c20-820f-666ad1823d6b)
