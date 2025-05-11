@@ -6,8 +6,13 @@ A React/TypeScript poker odds calculator that deterministically computes all pos
 ♥️ Interactive card placement - Drag-and-drop interface for player/community cards  
 ♣️ Short-deck (6+) support - Specialized calculations for 36-card variant  
 ♦️ Multi-result analysis - Shows win/tie probabilities plus hand strength distribution for hero  
-<span style="color:black">♠</span> Spade (HTML styled)  
-<span style="color:black">♣</span> Club (HTML styled)  
+<span style="color:black">♠</span>
+<span style="color:black">♣</span>
+
+<span style="color:black">♠</span> Spade (Black)  
+<span style="color:#D61818">♥</span> Heart (Red)  
+<span style="color:#1877D6">♦</span> Diamond (Blue)  
+<span style="color:#18A049">♣</span> Club (Green)  
 
 **Usage Example**  
 Drag cards to assign player hands (up to 6 players)
