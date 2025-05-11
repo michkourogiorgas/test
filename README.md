@@ -9,15 +9,10 @@ A React/TypeScript poker odds calculator that deterministically computes all pos
 <span style="color:black">♠</span>
 <span style="color:black">♣</span>
 
-<span style="color:black">♠</span> Spade (Black)  
-<span style="color:#D61818">♥</span> Heart (Red)  
-<span style="color:#1877D6">♦</span> Diamond (Blue)  
-<span style="color:#18A049">♣</span> Club (Green)  
-
-<span style="color:black;font-weight:bold">♠</span> Spade (Black)  
-<span style="color:#FF0000;font-weight:bold">♥</span> Heart (Bright Red)  
-<span style="color:#0066FF;font-weight:bold">♦</span> Diamond (Royal Blue)  
-<span style="color:#00AA00;font-weight:bold">♣</span> Club (Emerald Green)  
+![Spade](https://via.placeholder.com/15/000000/000000?text=+) ♠  
+![Heart](https://via.placeholder.com/15/ff0000/000000?text=+) ♥  
+![Diamond](https://via.placeholder.com/15/0000ff/000000?text=+) ♦  
+![Club](https://via.placeholder.com/15/00aa00/000000?text=+) ♣  
 
 **Usage Example**  
 Drag cards to assign player hands (up to 6 players)
